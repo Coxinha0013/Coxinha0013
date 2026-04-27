@@ -11,6 +11,9 @@
 - **Certificação**: AWS Academy Graduate – Cloud Foundations.
 - **Atuação**: Supervisora de Marketing e Community Manager no Hype RP.
 
+### 🎯 Objetivo
+- Estou em busca de minha primeira oportunidade de estágio na área de TI, com interesse especial em Desenvolvimento (Python/Java), Cloud Computing ou Engenharia de Dados. Sou movida por aprender novas tecnologias e contribuir para soluções escaláveis e eficientes.
+
 ### 🛠️ Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,9 +24,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🔭 Estou trabalhando em 
-- Atualmente focado em projetos acadêmicos de **Ciência da Computação**.
+- Atualmente focada em projetos acadêmicos de **Ciência da Computação**.
 - Desenvolvimento de automações com **Python**.
-- Estudos avançados em infraestrutura **AWS**.
 
 ---
 
