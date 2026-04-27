@@ -6,13 +6,13 @@
   <a href="coxinha0013" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
+### 🎯 Objetivo
+- Estou em busca de minha primeira oportunidade de estágio na área de TI, com interesse especial em Desenvolvimento (Python/Java), Cloud Computing ou Engenharia de Dados. Sou movida por aprender novas tecnologias e contribuir para soluções escaláveis e eficientes.
+
 ### 🎓 Acadêmico & Carreira
 - **Ciência da Computação**: 5º semestre na Faculdade Impacta (Previsão: 12/2027).
 - **Certificação**: AWS Academy Graduate – Cloud Foundations.
 - **Atuação**: Supervisora de Marketing e Community Manager no Hype RP.
-
-### 🎯 Objetivo
-- Estou em busca de minha primeira oportunidade de estágio na área de TI, com interesse especial em Desenvolvimento (Python/Java), Cloud Computing ou Engenharia de Dados. Sou movida por aprender novas tecnologias e contribuir para soluções escaláveis e eficientes.
 
 ### 🛠️ Tecnologias & Ferramentas
 
