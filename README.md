@@ -21,7 +21,7 @@
 | **Modelagem & Design** | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![3ds Max](https://img.shields.io/badge/3ds%20Max-%23242424.svg?style=for-the-badge&logo=autodesk&logoColor=white) |
 
 ### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Coxinha0013&show_icons=true&theme=dracula)
 
 ---
 
